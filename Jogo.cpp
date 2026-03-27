@@ -13,7 +13,7 @@ int main() {
     // --- APRESENTAÇÃO ---
     cout << "       MISSAO: O AVISO AO REI            \n";
 
-    cout << "Qual e o seu nome, mensageiro? ";
+    cout << "Qual e o seu nome, mensageiro ;)? ";
     cin >> nome;
 
     cout << "\nOla, " << nome << ". Voce precisa sair do castelo para avisar o Rei sobre a invasao!\n";
@@ -23,7 +23,7 @@ int main() {
     cout << "> ";
     cin >> escolha;
 
-    // Uso de IF/ELSE para a escolha inicial
+    // IF/ELSE
     if (escolha == 1) {
         vida = 130;
         cout << "Voce equipou a armadura. Vida aumentada para 130.\n";
