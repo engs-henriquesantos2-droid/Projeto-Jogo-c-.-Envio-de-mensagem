@@ -45,8 +45,8 @@ int main() {
     //  SWITCH-CASE 
     switch(escolha) {
         case 1:
-            cout << "Os guardas te viram! Voce foi atingido por flechas e perdeu 60 de vida.\n";
-            vida = vida - 60;
+            cout << "Os guardas te viram! Voce foi atingido por flechas e perdeu 70 de vida.\n";
+            vida = vida - 70;
             break;
         case 2:
             cout << "O cavalariço aceitou suas moedas. Voce agora tem um cavalo!\n";
