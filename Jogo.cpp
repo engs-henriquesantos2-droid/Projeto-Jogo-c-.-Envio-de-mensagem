@@ -19,7 +19,7 @@ int main() {
     cout << "\nOla, " << nome << ". Voce precisa sair do castelo para avisar o Rei sobre a invasao!\n";
     cout << "Escolha sua vantagem inicial:\n";
     cout << "1. Armadura de Ferro (Mais vida)\n";
-    cout << "2. Botas de Silencio (Mais furtividade)\n";
+    cout << "2. Botas de Silencio (Mais Furtilidade)\n";
     cout << "> ";
     cin >> escolha;
 
