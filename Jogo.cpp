@@ -37,7 +37,7 @@ int main() {
    
     cout << "O portao principal esta guardado. O que voce faz?\n";
     cout << "1. Tentar correr entre os guardas\n";
-    cout << "2. Subornar o cavalariço para pegar um cavalo\n";
+    cout << "2. Subornar o cara de cavalo para pegar um cavalo\n";
     cout << "3. Tentar escalar o muro alto\n";
     cout << "> ";
     cin >> escolha;
