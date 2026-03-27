@@ -42,7 +42,7 @@ int main() {
     cout << "> ";
     cin >> escolha;
 
-    // Uso de SWITCH-CASE obrigatório
+    //  SWITCH-CASE 
     switch(escolha) {
         case 1:
             cout << "Os guardas te viram! Voce foi atingido por flechas e perdeu 60 de vida.\n";
